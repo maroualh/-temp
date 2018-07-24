@@ -1,0 +1,157 @@
+.img{background-image: url("3.jpg");}
+.logo{ 
+vertical-align: middle;
+   margin-left: 520px;
+   margin-top: 45px;
+    
+}
+h1{
+    font-size: 50px;
+    color:white;
+    margin-left:450px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .pi{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 350px;}
+
+    
+    .txt{
+        height: 42px;
+        width:250px;
+        margin: 5px;
+    }
+    button{
+        height: 42px;
+        background-color:none;
+        color: white;
+        font-weight: 700;
+    }
+    .div1{
+        margin-left:460px;
+    
+    }
+    tr{position:center;
+        font-size: 28px;
+        padding-top: 10%;
+        color: white;
+        text-align: left;
+        padding: 5px;
+    }
+    td{
+        padding: 8Px;
+        padding-top: 10%;
+        font-size: 20px;
+        color:white;
+        text-align: left;
+    position: center;
+    }
+    .dev{margin-top: 45px;
+        margin-left: 460px;
+    }
+    
+.tr1,td1{
+    padding: 40px;
+    text-align: left padding;
+    text-align: left;
+}
+.icon{
+    margin-left: 460px;
+}
+.angle{
+    margin-left: 600px;
+    font-size: 35px;
+    margin-top: 15px;
+}
+.column {
+    
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+section{background: #ededed;
+color: #626262;
+padding: 8px;}
+.icon1{
+    width: 100px;
+    height: 55px;
+    color: #fff;
+    position: relative;
+    background: #bbbcbc;
+    margin: 35px auto 20px;
+}
+.feature-box {
+    text-align: center;
+    background: #e4e4e4;}
+
+
+
+    .description{ 
+    padding: 20px 15px 10px;}
+    h2{
+        margin-left: 600px;
+    }#div2{
+        margin-right: 100px;
+        height:10px ;
+        width:12px;
+        text-align: center;
+
+    }
+    .tab1{
+        margin-left: 460px;
+    }
+    p{font-family:'Lato', sans-serif;}
+
+    .team{
+        background:gray;
+        width: 220px;
+        height: 400px;
+        margin-left: 25px;
+    }
+    .team1{
+        background:gray;
+        width: 220px;
+        height: 400px;
+        margin-left: 400px;
+        margin-top: -400px
+    }.team2{
+        background:gray;
+        width: 220px;
+        height: 400px;
+        margin-left: 800px;
+        margin-top: -400px
+    }
+    .contact{padding: 3px;
+        background-color: rgba(138, 130, 130, 0.863);
+        color: white;
+    }
+    .form-control {
+        height: 42px;
+        border-radius: 0;
+        border: 1px solid transparent;
+     
+    }#div3{
+        margin-top: 2%;
+        margin-right: 50%;
+        font-family: "Helvetica ";
+
+    }#div4{
+        
+        padding: 3%;
+        margin-top:-15%;
+        margin-left: 60%;
+
+    }
+    textarea{
+        width: 350px;
+        height: 600px;
+    }
